@@ -5,11 +5,6 @@ perihelion — including the famous ~43 arcseconds/century that Newtonian gravit
 can't explain and general relativity can. Written in Python with NumPy, SciPy,
 and Matplotlib.
 
-> **What this is (and isn't):** a *numerical experiment*, not an analytic
-> derivation. Nothing here is solved in closed form — the equations of motion are
-> integrated step-by-step and the precession is *measured* from the resulting
-> trajectory.
-
 For the full derivation — the equations of motion, the initial conditions, the
 relativistic correction term, and the benchmark formulas the results are checked
 against — see the accompanying writeup in this repo.
